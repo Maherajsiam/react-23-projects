@@ -1,7 +1,7 @@
 import React from "react";
 // import Index from './Components/Project_1/Index';
-import Index from "./Components/Project_23/Index";
-import { AppProvider } from "./Components/Project_23/context";
+import Index from "./Components/Project_15/Index";
+import { AppProvider } from "./Components/Project_15/context";
 
 
 
